@@ -46,7 +46,7 @@ WHITE    = RGBColor(0xFF, 0xFF, 0xFF)
 LT       = RGBColor(0xDD, 0xE6, 0xEF)   # light text on dark panels
 SUB_LT   = RGBColor(0xC7, 0xD2, 0xDD)
 F = "Arial"
-DECK_TITLE = "ASEAN Cybersecurity Outlook 2026–2028"
+DECK_TITLE = "ASEAN Cybersecurity Outlook 2026-2028"
 
 EMU_W, EMU_H = Inches(13.333), Inches(7.5)
 prs = Presentation(); prs.slide_width = EMU_W; prs.slide_height = EMU_H
@@ -166,7 +166,7 @@ for r, row in enumerate(motif):
 txt(s, Inches(0.95), Inches(0.8), Inches(6.0), Inches(0.4), Pn("MARKET OUTLOOK", 12, GREEN_D, True), sa=0)
 txt(s, Inches(0.92), Inches(2.0), Inches(8.0), Inches(2.6),
     [[("ASEAN", 44, NAVY, True)], [("Cybersecurity", 44, NAVY, True)],
-     [("Outlook 2026", 44, NAVY, True), ("–", 44, BLUE, True), ("2028", 44, BLUE, True)]], sa=2, ls=1.0)
+     [("Outlook 2026", 44, NAVY, True), ("-", 44, BLUE, True), ("2028", 44, BLUE, True)]], sa=2, ls=1.0)
 txt(s, Inches(0.95), Inches(4.95), Inches(8.0), Inches(0.6),
     Pn("Singapore  •  Malaysia  •  Indonesia  •  Philippines  •  Vietnam  •  Thailand", 14, INK, False))
 txt(s, Inches(0.95), Inches(5.55), Inches(9.0), Inches(0.9),
@@ -299,7 +299,7 @@ rect(s, Inches(0.5), ty, Inches(12.28), Inches(0.72), NAVY)
 rect(s, Inches(0.5), ty, Pt(4), Inches(0.72), ORANGE)
 txt(s, Inches(0.78), ty, Inches(12.0), Inches(0.72),
     [[("The catch:  ",11.5,ORANGE_L,True),
-      ("Asia-Pacific is short about 3.4 million cyber staff (ISC2 2024 — its last published headcount estimate; the 2025 study tracks skills gaps instead), so companies lean on outside providers and AI to cover the gap.",11,WHITE,False)]],
+      ("Asia-Pacific is short about 3.4 million cyber staff (ISC2 2024 - its last published headcount estimate; the 2025 study tracks skills gaps instead), so companies lean on outside providers and AI to cover the gap.",11,WHITE,False)]],
     anchor=MSO_ANCHOR.MIDDLE, ls=1.0)
 
 # =========================================================== 7 REGULATION
@@ -362,7 +362,7 @@ countries=[
   "size26":"US$282.7M","cagr":"8.1%","f31":"US$417M by 2031","traj":[0.283,0.330,0.417],"trajcat":["2026","2028 (f)","2031 (f)"],
   "inds":[("Banking & finance","31.3%","Digital-banking surge and central-bank rules"),("IT, telecom & outsourcing","top buyer","Outsourcers must meet client security rules"),
           ("Government","top buyer","National Cybersecurity Plan 2023 to 2028"),("Healthcare","grows fastest, 11.4%/yr","Ransomware and new rules")],
-  "reg":"HB 9605 (National Cybersecurity Agency bill) passed the House on 12 Aug 2026 (198–3–1 vote) and is now pending Senate approval.",
+  "reg":"HB 9605 (National Cybersecurity Agency bill) passed the House on 12 Aug 2026 (198-3-1 vote) and is now pending Senate approval.",
   "threat":"Phishing sites jumped 423% in 2025, from 731 to 3,824 (Whoscall). Government is the most-targeted sector, and password-stealing malware is rising.",
   "src":"Mordor Intelligence, Philippines Cybersecurity Market (2025/26); DICT; Whoscall 2025; SOCRadar."},
  {"name":"Vietnam","tag":"Steady growth and a brand-new data law","accent":GREEN,

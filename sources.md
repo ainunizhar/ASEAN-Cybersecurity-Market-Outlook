@@ -14,7 +14,7 @@ confirmed as changed, update it here first, then in `build_deck.py`, then rebuil
 
 | Source | Cadence | Last known update | Month-to-month change? |
 |---|---|---|---|
-| Mordor: ASEAN market | Per edition | Last Updated Jul 8 2026 | No (locked to 2025 base / 2026–31 fcst) |
+| Mordor: ASEAN market | Per edition | Last Updated Jul 8 2026 | No (locked to 2025 base / 2026-31 fcst) |
 | Mordor: Singapore | Per edition | Aug 10 2026 | No |
 | Mordor: Indonesia | Per edition | Aug 11 2026 | No |
 | Mordor: Malaysia | Per edition | Aug 12 2026 | No |
@@ -26,11 +26,11 @@ confirmed as changed, update it here first, then in `build_deck.py`, then rebuil
 | CSA Singapore Cyber Landscape | Annual | **30 Jun 2026 (2025/26 ed.)** | Rarely |
 | MyCERT quarterly incidents | Quarterly | **Q2 2026** | ~4×/yr |
 | Regulatory / legal (PDP, cyber acts) | Event-driven | ongoing | Unpredictable: WATCH |
-| Google–Temasek–Bain e-Conomy SEA | Annual (Nov) | 11 Nov 2025 (10th ed.) | No: 2026 ed. due ~Nov 2026 |
+| Google-Temasek-Bain e-Conomy SEA | Annual (Nov) | 11 Nov 2025 (10th ed.) | No: 2026 ed. due ~Nov 2026 |
 
 **Mordor note (2026-10-01):** all seven reports re-verified. Every page carries a refreshed
-*Last Updated* stamp (Jul–Aug 2026) but **no new edition**: base year 2025, study period
-2020–2031 and forecast window 2026–2031 unchanged, and every size/CAGR figure matches. Per the
+*Last Updated* stamp (Jul-Aug 2026) but **no new edition**: base year 2025, study period
+2020-2031 and forecast window 2026-2031 unchanged, and every size/CAGR figure matches. Per the
 check rules, a moved stamp alone is not a data change.
 
 **Implication:** most figures move only on a new annual edition. The genuinely volatile items are the **regulatory** ones.
@@ -44,7 +44,7 @@ check rules, a moved stamp alone is not a data change.
 | ASEAN market size 2025 | US$5.51B | Mordor ASEAN Cybersecurity Market |
 | ASEAN market size 2026 (f) | US$6.44B | Mordor |
 | ASEAN market size 2031 (f) | US$14.10B | Mordor |
-| ASEAN CAGR 2026–2031 (f) | ~17% (16.95%) | Mordor |
+| ASEAN CAGR 2026-2031 (f) | ~17% (16.95%) | Mordor |
 | Singapore share of region | 26.2% (largest) | Mordor |
 | Vietnam regional CAGR | ~21% (fastest) | Mordor |
 | Cloud share of spend | 57% | Mordor |
@@ -52,7 +52,7 @@ check rules, a moved stamp alone is not a data change.
 
 ## Per-country figures (Mordor country reports)
 
-| Country | Size 2026 (f) | Size 2031 (f) | CAGR 26–31 | BFSI share | Fastest vertical (CAGR) |
+| Country | Size 2026 (f) | Size 2031 (f) | CAGR 26-31 | BFSI share | Fastest vertical (CAGR) |
 |---|---|---|---|---|---|
 | Singapore | US$3.07B | US$6.41B | 15.9% | 27.6% | Healthcare 18.7% |
 | Malaysia* | US$6.59B | US$9.32B | 7.2% | 21.6% | Healthcare 8.5% |
@@ -78,8 +78,8 @@ check rules, a moved stamp alone is not a data change.
 | **SG infected infrastructure 2025** | **284,300 (+142%)** | **CSA 2025/26** |
 | MY ransomware YoY 2024 | +153% | Kaspersky 2024 |
 | **MY fraud share of incidents** | **85.25% (2,314 of 2,715), Q2 2026** | **MyCERT Q2 2026** |
-| MY scam losses 2021–24 | RM3.18B | CyberSecurity Malaysia |
-| ID attacks/anomalies Jan–Jul 2025 | 3.64B (~83% malware) | BSSN |
+| MY scam losses 2021-24 | RM3.18B | CyberSecurity Malaysia |
+| ID attacks/anomalies Jan-Jul 2025 | 3.64B (~83% malware) | BSSN |
 | ID PDNS incident | 282 services disrupted (Jun 2024) | BSSN/news |
 | PH phishing-site rise 2025 | +423% (731→3,824) | Whoscall 2025 |
 | TH attack volume 2026 (press) | ~3,200/org/week | press (flagged) |
@@ -94,13 +94,13 @@ check rules, a moved stamp alone is not a data change.
 | Singapore Cybersecurity (Amendment) Act | Provisions live 31 Oct 2025 | CSA / DLA Piper |
 | Indonesia UU PDP | Enforceable since Oct 2024 | n/a |
 | **Indonesia GR 33/2026 (PDP implementing reg.)** | **Enacted 16 Jul 2026; full legal effect 16 Jan 2027 (6-mth grace). 225 articles / 12 chapters. Adds RoPA duties, operationalises 3×24-hr breach notice, fines ≤2% annual gross revenue** | ABNR / Rajah & Tann / BDO |
-| **Indonesia PDP supervisory agency** | **STILL NOT operational.** Draft Perpres in harmonisation at Ministry of Law; GR 33/2026 issued ahead of the Authority. Expected 2026–27 | **WATCH** |
+| **Indonesia PDP supervisory agency** | **STILL NOT operational.** Draft Perpres in harmonisation at Ministry of Law; GR 33/2026 issued ahead of the Authority. Expected 2026-27 | **WATCH** |
 | **Indonesia RUU KKS cyber bill** | **Formal DPR deliberations under way (from ~Jun 2026); Prolegnas 2026 priority. Not passed** | **WATCH** |
 | Vietnam Law on Cybersecurity | In force 1 Jul 2026: supersedes 2018 law, strengthens CII duties | Vietnam authorities |
 | Thailand PDPA enforcement | ~THB 21.5M fines by mid-2025 | Thailand PDPC |
 | Thailand NCSA CII list | Expanded 2025 | NCSA |
-| **Philippines standalone Cybersecurity Act** | **HB 9605 passed House 3rd reading 12 Aug 2026 (198–3–1); creates NCSA under Office of the President; now in Senate. LEDAC priority** | **WATCH** |
-| Philippines NCSP 2023–2028 | In execution (EO 58, 2024) | DICT |
+| **Philippines standalone Cybersecurity Act** | **HB 9605 passed House 3rd reading 12 Aug 2026 (198-3-1); creates NCSA under Office of the President; now in Senate. LEDAC priority** | **WATCH** |
+| Philippines NCSP 2023-2028 | In execution (EO 58, 2024) | DICT |
 | **ASEAN DEFA** | **Negotiations concluded May 2026 (57th SEOM-2); signing targeted 49th ASEAN Summit, Manila, Nov 2026 (incl. Timor-Leste)** | **WATCH** |
 
 ---

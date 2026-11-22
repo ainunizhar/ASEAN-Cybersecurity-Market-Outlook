@@ -1,4 +1,4 @@
-# ASEAN Cybersecurity Market Outlook 2026–2028
+# ASEAN Cybersecurity Market Outlook 2026-2028
 
 A 16-slide market outlook for **six ASEAN countries** (Singapore, Malaysia, Indonesia, the Philippines, Vietnam and
 Thailand): market size and growth, the industries that spend most, the main threats and the new laws driving
@@ -8,10 +8,10 @@ edition in a source ledger.
 ![Cover](images/slide-01.png)
 
 ## What's inside
-- **Slides 1–7:** how to read the deck, the regional market at a glance, market size by country, threat and
+- **Slides 1-7:** how to read the deck, the regional market at a glance, market size by country, threat and
   technology trends, regulation.
-- **Slides 8–13:** one profile per country: size and growth, top industries, biggest threat, rules to know.
-- **Slides 14–16:** all six countries side by side, takeaways (labelled as opinion), sources.
+- **Slides 8-13:** one profile per country: size and growth, top industries, biggest threat, rules to know.
+- **Slides 14-16:** all six countries side by side, takeaways (labelled as opinion), sources.
 - **Headline:** the ASEAN market grows from US$5.51B (2025) to US$14.10B (2031 forecast), a CAGR of ~17%
   (Mordor Intelligence).
 - Every slide has a source line and speaker notes.
